@@ -1,6 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "slate theme demo"
+title = "Leewardslope"
 theme = "slate"
 
 publishDir = "docs"
