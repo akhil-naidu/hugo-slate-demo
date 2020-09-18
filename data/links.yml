@@ -1,5 +1,10 @@
 tiles:
 -
+  name: "Leewardslope"
+  url: "https://blog.leewardslope.com"
+  img: "logos/leewardslope.svg"
+  tags: ["favorite"]
+-
   name: "google"
   url: "https://google.com"
   img: "logos/google.svg"
